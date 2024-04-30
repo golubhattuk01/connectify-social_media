@@ -1,4 +1,5 @@
 # MERN Stack Project: Build and Deploy a Real Time Chat App | JWT, Socket.io
+deployed at : https://connectify-social-media.onrender.com/
 
 ![alt text](image.png)
 
@@ -22,16 +23,4 @@ PORT=...
 MONGO_DB_URI=...
 JWT_SECRET=...
 NODE_ENV=...
-```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
 ```
